@@ -1,0 +1,10 @@
+rms
+student
+id
+name
+contact
+maths
+eng
+hindi
+sst
+sci
